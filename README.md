@@ -40,12 +40,12 @@ Encapsulation diterapkan dengan menggunakan getter dan setter pada class `Pesana
 
 Berikut merupakan implementasi ketika class lain mencoba mengakses atribut yang memiliki access modifier `private` pada class `PesananJastip`. Atribut tersebut tidak dapat diakses secara langsung, sehingga digunakan method getter `getNamaPelanggan()` untuk mengakses data tersebut.
 
-## Getter
+### Getter
 ![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Dokumentasi/Screenshot%202026-09-06%20154354.png?raw=true) 
 
 Saat program dijalankan, method getter berhasil mengambil nilai `namaPelanggan` dan menampilkan data `Sinta`.
 
-## Setter
+### Setter
 Berikut merupakan implementasi setter untuk mengubah nilai beberapa atribut pada object `PesananJastip`. Data yang awalnya `Sinta`, `Skincare`, `Korea Selatan`, harga `500000`, dan jumlah `2` berhasil diubah menjadi `Aisyah`, `Tas`, `Jepang`, harga `750000`, dan jumlah `3` menggunakan method setter.
 
 ![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Dokumentasi/Screenshot%202026-09-08%20005407.png?raw=true)
