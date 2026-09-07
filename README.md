@@ -44,6 +44,11 @@ Berikut merupakan implementasi ketika class lain mencoba mengakses atribut yang 
 
 Saat program dijalankan, method getter berhasil mengambil nilai `namaPelanggan` dan menampilkan data `Sinta`.
 
+Berikut merupakan implementasi setter untuk mengubah nilai beberapa atribut pada object `PesananJastip`. Data yang awalnya `Sinta`, `Skincare`, `Korea Selatan`, harga `500000`, dan jumlah `2` berhasil diubah menjadi `Aisyah`, `Tas`, `Jepang`, harga `750000`, dan jumlah `3` menggunakan method setter.
+
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Dokumentasi/Screenshot%202026-09-08%20005407.png?raw=true)
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Dokumentasi/Screenshot%202026-09-08%20005441.png?raw=true)
+
 #### 3. Input Validation
 Input validation diterapkan pada class `ValidasiInput`. Validasi digunakan untuk memastikan input String tidak kosong dan input angka harus memiliki nilai lebih dari 0.
 
